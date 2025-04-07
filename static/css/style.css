@@ -1,16 +1,13 @@
-/* Ensure html and body take full height */
 html, body {
     height: 100%;
     margin: 0;
     padding: 0;
 }
 
-/* Main container full screen */
 #main-content {
     height: 100vh;
 }
 
-/* EPG Scrollbar styling */
 .epg-scrollbar {
     scrollbar-width: thin;
     scrollbar-color: rgba(99, 102, 241, 0.5) rgba(17, 24, 39, 0.8);
@@ -29,7 +26,6 @@ html, body {
     border: 2px solid rgba(17, 24, 39, 0.8);
 }
 
-/* EPG Grid and rows */
 #epg-grid {
     display: grid;
     width: 100%;
@@ -70,7 +66,6 @@ html, body {
     border-radius: 4px;
 }
 
-/* Program Items */
 .program-item {
     padding: 10px;
     border-right: 1px solid #1f2937;
@@ -106,7 +101,6 @@ html, body {
     margin: -4px;
 }
 
-/* Time slots and current time indicator */
 #time-slots {
     display: grid;
     grid-template-columns: repeat(6, 1fr);
@@ -137,7 +131,6 @@ html, body {
     50% { opacity: 0.4; }
 }
 
-/* Navigation buttons */
 #epg-prev, #epg-next {
     background: transparent;
     border: none;
@@ -152,7 +145,6 @@ html, body {
     transform: scale(1.2);
 }
 
-/* Filters */
 #channel-filter, #date-filter {
     background-color: #000;
     border: 1px solid #374151;
@@ -163,14 +155,12 @@ html, body {
     font-size: 14px;
 }
 
-/* Video player inside modal */
 #player-video {
     width: 100%;
     height: 100%;
     background-color: #000;
 }
 
-/* Loading spinner */
 .channel-loading {
     position: absolute;
     top: 50%;
@@ -187,7 +177,6 @@ html, body {
     to { transform: translate(-50%, -50%) rotate(360deg); }
 }
 
-/* Channel select (if present) */
 #channel-select {
     background-color: rgba(17, 24, 39, 0.8);
     border: 1px solid rgba(99, 102, 241, 0.3);
@@ -197,7 +186,6 @@ html, body {
     width: 100%;
 }
 
-/* Program text */
 .program-item .title {
     font-weight: 500;
     font-size: 14px;
@@ -247,7 +235,6 @@ html, body {
     min-height: 70px;
 }
 
-/* Modal animations */
 @keyframes modalFadeIn {
     from { opacity: 0; transform: scale(0.95); }
     to { opacity: 1; transform: scale(1); }
@@ -306,7 +293,6 @@ html, body {
     margin-bottom: 4px;
 }
 
-/* Responsive adjustments */
 @media (max-width: 1024px) {
     .channel-row {
         grid-template-columns: 110px 1fr;
