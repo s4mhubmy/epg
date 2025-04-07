@@ -86,9 +86,12 @@
         </button>
       </div>
 
+      <!-- The responsive-epg class ensures the grid fills available space.
+           Optionally, if search results are few, you can add the "epg-grid--small" class (toggle in JS)
+           to restrict the grid’s size for efficiency. -->
       <div class="relative flex-1 overflow-hidden">
         <div id="current-time-indicator" class="absolute top-0 bottom-0 w-0.5 bg-red-500 z-10 hidden"></div>
-        <div id="epg-grid" class="border-t border-l border-gray-800 epg-scrollbar h-full overflow-y-auto">
+        <div id="epg-grid" class="border-t border-l border-gray-800 epg-scrollbar h-full overflow-y-auto responsive-epg">
           <!-- Grid will be dynamically generated -->
         </div>
       </div>
