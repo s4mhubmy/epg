@@ -29,10 +29,22 @@ html, body {
 #epg-grid {
     display: grid;
     width: 100%;
+    height: 100%;
     background-color: #000;
     color: #fff;
     position: relative;
+    grid-auto-rows: min-content;
 }
+
+.responsive-epg {
+    height: calc(100vh - 180px);
+}
+
+.epg-grid--small {
+    max-width: 800px;
+    margin: 0 auto;
+}
+
 .channel-row {
     display: grid;
     grid-template-columns: 130px 1fr;
