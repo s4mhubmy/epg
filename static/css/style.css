@@ -26,16 +26,6 @@ html, body {
     border: 2px solid rgba(17, 24, 39, 0.8);
 }
 
-#epg-grid {
-    display: grid;
-    width: 100%;
-    height: 100%;
-    background-color: #000;
-    color: #fff;
-    position: relative;
-    grid-auto-rows: min-content;
-}
-
 .responsive-epg {
     height: calc(100vh - 180px);
 }
@@ -45,25 +35,35 @@ html, body {
     margin: 0 auto;
 }
 
+#epg-grid {
+    width: 100%;
+    background-color: #000;
+    color: #fff;
+    position: relative;
+}
+
+
 .channel-row {
-    display: grid;
-    grid-template-columns: 130px 1fr;
+    display: flex;
+    flex-direction: row;
+    align-items: stretch;
     border-bottom: 1px solid #1f2937;
     min-height: 70px;
+    position: relative;
 }
 .channel-row:hover {
     background-color: rgba(31, 41, 55, 0.6);
 }
+
 .channel-card {
+    width: 130px;
     display: flex;
     align-items: center;
     padding: 10px;
     border-right: 1px solid #1f2937;
-    transition: all 0.2s ease;
     background-color: rgba(17, 24, 39, 0.5);
-    position: sticky;
-    left: 0;
     z-index: 5;
+    transition: all 0.2s ease;
 }
 .channel-card:hover {
     transform: translateY(-2px);
@@ -78,19 +78,28 @@ html, body {
     border-radius: 4px;
 }
 
+.programs-container {
+    flex: 1;
+    position: relative;
+    overflow-x: hidden;
+    min-height: 70px;
+}
+
 .program-item {
+    position: absolute;
+    top: 0;
+    bottom: 0;
     padding: 10px;
     border-right: 1px solid #1f2937;
     overflow: hidden;
     white-space: nowrap;
     text-overflow: ellipsis;
     transition: all 0.2s ease;
-    position: relative;
-    min-height: 70px;
     cursor: pointer;
     display: flex;
     flex-direction: column;
     justify-content: center;
+    box-sizing: border-box;
 }
 .program-item:hover {
     background-color: rgba(55, 65, 81, 0.7);
@@ -116,8 +125,6 @@ html, body {
 #time-slots {
     display: grid;
     grid-template-columns: repeat(6, 1fr);
-    border-bottom: 1px solid #1f2937;
-    background-color: #000;
     padding: 8px 0;
     font-size: 14px;
     position: sticky;
@@ -126,9 +133,10 @@ html, body {
 }
 #time-slots div {
     text-align: center;
-    border-right: 1px solid #1f2937;
+    border-right: 1px solid #1f293700;
     color: #9ca3af;
 }
+
 #current-time-indicator {
     position: absolute;
     top: 0;
@@ -143,7 +151,8 @@ html, body {
     50% { opacity: 0.4; }
 }
 
-#epg-prev, #epg-next {
+#epg-prev,
+#epg-next {
     background: transparent;
     border: none;
     color: #9ca3af;
@@ -152,12 +161,14 @@ html, body {
     padding: 8px;
     transition: all 0.2s ease;
 }
-#epg-prev:hover, #epg-next:hover {
+#epg-prev:hover,
+#epg-next:hover {
     color: #fff;
     transform: scale(1.2);
 }
 
-#channel-filter, #date-filter {
+#channel-filter,
+#date-filter {
     background-color: #000;
     border: 1px solid #374151;
     color: #fff;
@@ -189,15 +200,6 @@ html, body {
     to { transform: translate(-50%, -50%) rotate(360deg); }
 }
 
-#channel-select {
-    background-color: rgba(17, 24, 39, 0.8);
-    border: 1px solid rgba(99, 102, 241, 0.3);
-    color: white;
-    padding: 8px 12px;
-    border-radius: 6px;
-    width: 100%;
-}
-
 .program-item .title {
     font-weight: 500;
     font-size: 14px;
@@ -211,6 +213,7 @@ html, body {
     font-size: 12px;
     color: #9ca3af;
 }
+
 .now-playing {
     background-color: rgba(79, 70, 229, 0.2);
     position: relative;
@@ -224,6 +227,7 @@ html, body {
     width: 3px;
     background-color: #6366f1;
 }
+
 .channel-number {
     min-width: 25px;
     text-align: center;
@@ -234,17 +238,12 @@ html, body {
     border-radius: 4px;
     padding: 2px 6px;
 }
+
 .channel-name {
     font-size: 14px;
     white-space: nowrap;
     overflow: hidden;
     text-overflow: ellipsis;
-}
-.programs-container {
-    display: flex;
-    overflow-x: auto;
-    position: relative;
-    min-height: 70px;
 }
 
 @keyframes modalFadeIn {
@@ -261,7 +260,8 @@ html, body {
 .modal-hide {
     animation: modalFadeOut 0.2s forwards;
 }
-#program-modal, #player-modal {
+#program-modal,
+#player-modal {
     backdrop-filter: blur(5px);
 }
 .modal-content {
@@ -306,67 +306,52 @@ html, body {
 }
 
 @media (max-width: 1024px) {
-    .channel-row {
-        grid-template-columns: 110px 1fr;
-    }
-    #program-modal .modal-content {
-        max-width: 90%;
-    }
-}
-@media (max-width: 768px) {
-    .channel-row {
-        grid-template-columns: 90px 1fr;
-        min-height: 60px;
-    }
     .channel-card {
-        padding: 6px;
+        width: 110px;
+    }
+    #time-slots {
+        /* margin-left removed */
     }
     .channel-row img {
         width: 30px;
         height: 30px;
     }
     .program-item {
-        min-height: 60px;
         padding: 6px;
     }
-    .program-item .title {
-        font-size: 13px;
-    }
-    #epg-grid {
-        max-height: 60vh;
-    }
 }
-@media (max-width: 640px) {
-    .channel-row {
-        grid-template-columns: 70px 1fr;
-        min-height: 55px;
+@media (max-width: 768px) {
+    .channel-card {
+        width: 90px;
     }
-    .channel-name {
-        display: none;
+    #time-slots {
+        /* margin-left removed */
     }
     .channel-row img {
         width: 25px;
         height: 25px;
-        margin-right: 4px;
     }
     .program-item {
-        min-height: 55px;
         padding: 4px;
+    }
+    .program-item .title {
+        font-size: 13px;
+    }
+}
+@media (max-width: 640px) {
+    .channel-card {
+        width: 70px;
+    }
+    #time-slots {
+        font-size: 11px;
+    }
+    .channel-name {
+        display: none;
     }
     .program-item .title {
         font-size: 12px;
     }
     .program-item .time {
         font-size: 10px;
-    }
-    #time-slots {
-        font-size: 11px;
-    }
-    #epg-grid {
-        max-height: 50vh;
-    }
-    .programs-container {
-        overflow-x: auto;
-        -webkit-overflow-scrolling: touch;
     }
 }
