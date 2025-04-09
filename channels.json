@@ -1,0 +1,1323 @@
+[
+  {
+    "channel": "TV2",
+    "icon": "http://linear-poster.astro.com.my/prod/logo/TV2_v1.png",
+    "category": [
+      "HD",
+      "ALL"
+    ],
+    "mpd": "https://linearjitp-playback.astro.com.my/dash-wv/linear/5027/default_ott.mpd",
+    "kid": "4f885481fe053e544096532c1dcb9710",
+    "key": "24a9b17859862887f28f63c7c29bcaa5",
+    "tvg_id": "102.astro"
+  },
+  {
+    "channel": "OASIS HD",
+    "icon": "http://linear-poster.astro.com.my/prod/logo/AstroOasis_2024.png",
+    "category": [
+      "HD",
+      "MALAY",
+      "ALL"
+    ],
+    "mpd": "https://linearjitp-playback.astro.com.my/dash-wv/linear/2505/default_ott.mpd",
+    "kid": "17d5d62dc61954b82ee016da264abd10",
+    "key": "5f35f815699140e2649d825f0d24028e",
+    "tvg_id": "106.astro"
+  },
+  {
+    "channel": "RANIA HD",
+    "icon": "http://linear-poster.astro.com.my/prod/logo/AstroRania_2024.png",
+    "category": [
+      "HD",
+      "MALAY",
+      "ALL"
+    ],
+    "mpd": "https://linearjitp-playback.astro.com.my/dash-wv/linear/608/default_ott.mpd",
+    "kid": "784c6037e5888e84106e41059fe2b110",
+    "key": "8e4200bf5c4d523ff00bfd173d021602",
+    "tvg_id": "112.astro"
+  },
+  {
+    "channel": "AURA HD",
+    "icon": "http://linear-poster.astro.com.my/prod/logo/AstroAura_2024.png",
+    "category": [
+      "HD",
+      "MALAY",
+      "ALL"
+    ],
+    "mpd": "https://linearjitp-playback.astro.com.my/dash-wv/linear/609/default_ott.mpd",
+    "kid": "869c3237d2fae78301a91dbb5a924d10",
+    "key": "f5c2312185f9f0c4894b73ce17419d8c",
+    "tvg_id": "113.astro"
+  },
+  {
+    "channel": "TV ALHIJRAH",
+    "icon": "http://linear-poster.astro.com.my/prod/logo/Al-Hijrah_v1.png",
+    "category": [
+      "MALAY",
+      "HD",
+      "ALL"
+    ],
+    "mpd": "https://linearjitp-playback.astro.com.my/dash-wv/linear/1113/default_ott.mpd",
+    "kid": "41a42fb5af457501c11bb9b158d5a110",
+    "key": "57a8d6f9e3832887db18ea6071118736",
+    "tvg_id": "114.astro"
+  },
+  {
+    "channel": "COLORS HD",
+    "icon": "http://linear-poster.astro.com.my/prod/logo/ColorsHindi2025.png",
+    "category": [
+      "HD",
+      "INDIANS",
+      "ALL"
+    ],
+    "mpd": "https://linearjitp-playback.astro.com.my/dash-wv/linear/2611/default_ott.mpd",
+    "kid": "ad3cb242cde3b687e2398cd21eb9bd10",
+    "key": "6ed9b4976a854a289ce62cac957a55d5",
+    "tvg_id": "116.astro"
+  },
+  {
+    "channel": "TVS",
+    "icon": "http://linear-poster.astro.com.my/prod/logo/TVS.png",
+    "category": [
+      "MALAY",
+      "HD",
+      "ALL"
+    ],
+    "mpd": "https://linearjitp-playback.astro.com.my/dash-wv/linear/5021/default_ott.mpd",
+    "kid": "c3e956b38ae993be1494c7cfa17b1110",
+    "key": "55ccaee886b340dd901f4bf8dd9d3a6a",
+    "tvg_id": "122.astro"
+  },
+  {
+    "channel": "TV OKEY",
+    "icon": "http://linear-poster.astro.com.my/prod/logo/Okey_v1.png",
+    "category": [
+      "HD",
+      "ALL"
+    ],
+    "mpd": "https://linearjitp-playback.astro.com.my/dash-wv/linear/5072/default_ott.mpd",
+    "kid": "60f202b16407fedd8e369c32af57dd10",
+    "key": "c8475231c09dc1b639886976b6fc7575",
+    "tvg_id": "146.astro"
+  },
+  {
+    "channel": "VAANAVIL HD",
+    "icon": "http://linear-poster.astro.com.my/prod/logo/AstroVaanavil_2024.png",
+    "category": [
+      "HD",
+      "INDIANS",
+      "ALL"
+    ],
+    "mpd": "https://linearjitp-playback.astro.com.my/dash-wv/linear/2309/default_ott.mpd",
+    "kid": "72499c6ad44cc37d95a9075420911110",
+    "key": "b5416326114a13e90662a4fbaf3c532b",
+    "tvg_id": "201.astro"
+  },
+  {
+    "channel": "Vellithirai HD ",
+    "icon": "http://linear-poster.astro.com.my/prod/logo/AstroVellithirai_2024.png",
+    "category": [
+      "HD",
+      "MOVIES",
+      "INDIANS",
+      "ALL"
+    ],
+    "mpd": "https://linearjitp-playback.astro.com.my/dash-wv/linear/5073/default_ott.mpd",
+    "kid": "9c44af8b594b6157f55d3c31bd679c10",
+    "key": "c128bbe41e94d15a7f8cc2f6253a54b2",
+    "tvg_id": "203.astro"
+  },
+  {
+    "channel": "SUN TV HD",
+    "icon": "http://linear-poster.astro.com.my/prod/logo/Sun_TV_v1.png",
+    "category": [
+      "INDIANS",
+      "HD",
+      "ALL"
+    ],
+    "mpd": "https://linearjitp-playback.astro.com.my/dash-wv/linear/2310/default_ott.mpd",
+    "kid": "83076ff2f68d1764b559c432ab49ca10",
+    "key": "ebdf56ba4a3562cc82053a2952975432",
+    "tvg_id": "211.astro"
+  },
+  {
+    "channel": "SUN MUSIC HD",
+    "icon": "http://linear-poster.astro.com.my/prod/logo/Sun_Music_v1.png",
+    "category": [
+      "INDIANS",
+      "HD",
+      "ALL"
+    ],
+    "mpd": "https://linearjitp-playback.astro.com.my/dash-wv/linear/5011/default_ott.mpd",
+    "kid": "beaca9461f7ca0d58ba529fed2e7b610",
+    "key": "da0a70148e126eb40cce02665753896d",
+    "tvg_id": "212.astro"
+  },
+  {
+    "channel": "ADITHYA",
+    "icon": "http://linear-poster.astro.com.my/prod/logo/Adithiya_v1.png",
+    "category": [
+      "INDIANS",
+      "ALL"
+    ],
+    "mpd": "https://linearjitp-playback.astro.com.my/dash-wv/linear/915/default_ott.mpd",
+    "kid": "859f5b2054c4073e8f0da463d208b910",
+    "key": "5eb3762b1a4631a0b98e25e23cef0193",
+    "tvg_id": "214.astro"
+  },
+  {
+    "channel": "Sun News",
+    "icon": "http://linear-poster.astro.com.my/prod/logo/Sun-News.png",
+    "category": [
+      "HD",
+      "INDIANS",
+      "NEWS",
+      "ALL"
+    ],
+    "mpd": "https://linearjitp-playback.astro.com.my/dash-wv/linear/5087/default_ott.mpd",
+    "kid": "0a171cc1bb90f78820cf25cc55f0ee10",
+    "key": "ac08792047218ca2a01f2bbd12d90501",
+    "tvg_id": "215.astro"
+  },
+  {
+    "channel": "KTV",
+    "icon": "http://linear-poster.astro.com.my/prod/logo/KTV.png",
+    "category": [
+      "HD",
+      "INDIANS",
+      "ENTERTAINMENT",
+      "ALL"
+    ],
+    "mpd": "https://linearjitp-playback.astro.com.my/dash-wv/linear/5088/default_ott.mpd",
+    "kid": "8e7863a8e770b0d72ebe4a68437b6410",
+    "key": "73648ceba3751645926d45421c85d927",
+    "tvg_id": "216.astro"
+  },
+  {
+    "channel": "Sun Life",
+    "icon": "http://linear-poster.astro.com.my/prod/logo/Sun-Life.png",
+    "category": [
+      "HD",
+      "INDIANS",
+      "ENTERTAINMENT",
+      "ALL"
+    ],
+    "mpd": "https://linearjitp-playback.astro.com.my/dash-wv/linear/5089/default_ott.mpd",
+    "kid": "e3e1be94e6c193fa21787ce8435db610",
+    "key": "726304708c429f613ec2dc53619d6f76",
+    "tvg_id": "217.astro"
+  },
+  {
+    "channel": "STAR VIJAY HD",
+    "icon": "http://linear-poster.astro.com.my/prod/logo/Star_Vijay_v1.png",
+    "category": [
+      "HD",
+      "INDIANS",
+      "ALL"
+    ],
+    "mpd": "https://linearjitp-playback.astro.com.my/dash-wv/linear/2707/default_ott.mpd",
+    "kid": "af35608a7d4b13d1158c2ef6d6c1a010",
+    "key": "d01c81050dfab309c6be7e60d03c2d82",
+    "tvg_id": "221.astro"
+  },
+  {
+    "channel": "COLORS TAMIL",
+    "icon": "http://linear-poster.astro.com.my/prod/logo/Colors-Tamil_v1.png",
+    "category": [
+      "HD",
+      "INDIANS",
+      "ALL"
+    ],
+    "mpd": "https://linearjitp-playback.astro.com.my/dash-wv/linear/2101/default_ott.mpd",
+    "kid": "e46354fb39c28e5956bc946ac2a05010",
+    "key": "511905bf191474b412b4ec117515a79c",
+    "tvg_id": "222.astro"
+  },
+  {
+    "channel": "ZEE TAMIL HD",
+    "icon": "http://linear-poster.astro.com.my/prod/logo/ZeeTamil_v1.png",
+    "category": [
+      "HD",
+      "INDIANS",
+      "ALL"
+    ],
+    "mpd": "https://linearjitp-playback.astro.com.my/dash-wv/linear/2311/default_ott.mpd",
+    "kid": "0d4e3e7dac2d58b93bf819a72fe8d510",
+    "key": "667a33f4d5bb3587f2d5209886839eac",
+    "tvg_id": "223.astro"
+  },
+  {
+    "channel": "Zee Cinema ",
+    "icon": "http://linear-poster.astro.com.my/prod/logo/ZeeCinemaHD.png",
+    "category": [
+      "HD",
+      "INDIANS",
+      "MOVIES",
+      "ALL"
+    ],
+    "mpd": "https://linearjitp-playback.astro.com.my/dash-wv/linear/5106/default_ott.mpd",
+    "kid": "db96483900762e233aa7830457a0d310",
+    "key": "20f392e5a1021be68fc32bcdb9ec3ad4",
+    "tvg_id": "251.astro"
+  },
+  {
+    "channel": "iQIYI HD",
+    "icon": "http://linear-poster.astro.com.my/prod/logo/IQIYI_2022.png",
+    "category": [
+      "CHINESE",
+      "HD",
+      "ALL"
+    ],
+    "mpd": "https://linearjitp-playback.astro.com.my/dash-wv/linear/1006/default_ott.mpd",
+    "kid": "7ef7e913ce85a1131b27036069169a10",
+    "key": "77d98ed71db7524c27875a09a975f9e6",
+    "tvg_id": "300.astro"
+  },
+  {
+    "channel": "TVB CLASSIC HD",
+    "icon": "http://linear-poster.astro.com.my/prod/logo/TVB_Classic_2022.png",
+    "category": [
+      "HD",
+      "CHINESE",
+      "ALL"
+    ],
+    "mpd": "https://linearjitp-playback.astro.com.my/dash-wv/linear/5016/default_ott.mpd",
+    "kid": "071448690a0ec9b27eb2c1a7d5e03010",
+    "key": "933ae273b166baa8fb203eef1a7adbdf",
+    "tvg_id": "305.astro"
+  },
+  {
+    "channel": "CELESTIAL HD",
+    "icon": "http://linear-poster.astro.com.my/prod/logo/Celestial_HD_v1.png",
+    "category": [
+      "HD",
+      "CHINESE",
+      "MOVIES",
+      "ALL"
+    ],
+    "mpd": "https://linearjitp-playback.astro.com.my/dash-wv/linear/506/default_ott.mpd",
+    "kid": "c5c1ba26907291afec11a9a78d513410",
+    "key": "361197805d0149c29801946cf2dde67c",
+    "tvg_id": "309.astro"
+  },
+  {
+    "channel": "TVBJ",
+    "icon": "http://linear-poster.astro.com.my/prod/logo/TVB_Jade_v3.png",
+    "category": [
+      "HD",
+      "CHINESE",
+      "ALL"
+    ],
+    "mpd": "https://linearjitp-playback.astro.com.my/dash-wv/linear/2600/default_ott.mpd",
+    "kid": "fe1219019a9f36cdef347088e592ca10",
+    "key": "cb9e1a122ed1c6445f7d3fd2162358f1",
+    "tvg_id": "310.astro"
+  },
+  {
+    "channel": "CTI ASIA HD",
+    "icon": "http://linear-poster.astro.com.my/prod/logo/Cti_v1.png",
+    "category": [
+      "HD",
+      "CHINESE",
+      "ALL"
+    ],
+    "mpd": "https://linearjitp-playback.astro.com.my/dash-wv/linear/5017/default_ott.mpd",
+    "kid": "d626598c2ab452537509dcb8a86db910",
+    "key": "f5a9cadea2372a52c2b91f9c261fe0a4",
+    "tvg_id": "316.astro"
+  },
+  {
+    "channel": "TVB E-NEWS HD",
+    "icon": "http://linear-poster.astro.com.my/prod/logo/TVBE_v1.png",
+    "category": [
+      "HD",
+      "CHINESE",
+      "NEWS",
+      "ALL"
+    ],
+    "mpd": "https://linearjitp-playback.astro.com.my/dash-wv/linear/5015/default_ott.mpd",
+    "kid": "fa629c3640ce533c755509f67f75e610",
+    "key": "af710a06fd67975b99db4a47a757b84b",
+    "tvg_id": "317.astro"
+  },
+  {
+    "channel": "TVB XING HE HD",
+    "icon": "http://linear-poster.astro.com.my/prod/logo/TVB_XingHe_v1.png",
+    "category": [
+      "CHINESE",
+      "HD",
+      "ALL"
+    ],
+    "mpd": "https://linearjitp-playback.astro.com.my/dash-wv/linear/401/default_ott.mpd",
+    "kid": "e36e0cbdef0677b48dba5c63e8caaf10",
+    "key": "ecfb454b2f3e238c5b5dc196e4f91fb8",
+    "tvg_id": "319.astro"
+  },
+  {
+    "channel": "TVBS ASIA HD",
+    "icon": "http://linear-poster.astro.com.my/prod/logo/TVBS_v1.png",
+    "category": [
+      "CHINESE",
+      "HD",
+      "ALL"
+    ],
+    "mpd": "https://linearjitp-playback.astro.com.my/dash-wv/linear/402/default_ott.mpd",
+    "kid": "e76a89a1e23f8f7b828f4dbdc2d09a10",
+    "key": "346f0f60cbd7591e1ae72ca589157bb1",
+    "tvg_id": "320.astro"
+  },
+  {
+    "channel": "CCM",
+    "icon": "http://linear-poster.astro.com.my/prod/logo/CCM_v1.png",
+    "category": [
+      "MOVIES",
+      "CHINESE",
+      "ALL"
+    ],
+    "mpd": "https://linearjitp-playback.astro.com.my/dash-wv/linear/100/default_ott.mpd",
+    "kid": "a642dd4bf3ea782e19202adefb604b10",
+    "key": "3f59355e15eed1bb219ea1687d55cfbb",
+    "tvg_id": "321.astro"
+  },
+  {
+    "channel": "PHOENIX HD",
+    "icon": "http://linear-poster.astro.com.my/prod/logo/Phoenix_v1.png",
+    "category": [
+      "HD",
+      "CHINESE",
+      "ALL"
+    ],
+    "mpd": "https://linearjitp-playback.astro.com.my/dash-wv/linear/400/default_ott.mpd",
+    "kid": "517c308ef6419b1767e9ae710c897710",
+    "key": "fd6be1cea9fa23c98f20f1b2abcae276",
+    "tvg_id": "325.astro"
+  },
+  {
+    "channel": "PHOENIX NEWS HD",
+    "icon": "http://linear-poster.astro.com.my/prod/logo/Phoenix_News_Info_v1.png",
+    "category": [
+      "HD",
+      "NEWS",
+      "CHINESE",
+      "ALL"
+    ],
+    "mpd": "https://linearjitp-playback.astro.com.my/dash-wv/linear/5009/default_ott.mpd",
+    "kid": "9729558a9bff8d94774bfa2f019a1310",
+    "key": "8b9eb7ab7196a425d9ab618a5c9f99d9",
+    "tvg_id": "326.astro"
+  },
+  {
+    "channel": "HUA HEE DAI HD",
+    "icon": "http://linear-poster.astro.com.my/prod/logo/AstroHuaHeeDai_2024.png",
+    "category": [
+      "CHINESE",
+      "HD",
+      "ALL"
+    ],
+    "mpd": "https://linearjitp-playback.astro.com.my/dash-wv/linear/2308/default_ott.mpd",
+    "kid": "60507ef0dc9c813d5f8c7b2229412f10",
+    "key": "c8a0f7e69bb31dfd475da26fc6c6003b",
+    "tvg_id": "333.astro"
+  },
+  {
+    "channel": "CCTV4 HD",
+    "icon": "http://linear-poster.astro.com.my/prod/logo/CCTV4_v1.png",
+    "category": [
+      "CHINESE",
+      "HD",
+      "ALL"
+    ],
+    "mpd": "https://linearjitp-playback.astro.com.my/dash-wv/linear/403/default_ott.mpd",
+    "kid": "db1a338f71d40186f5997cb085bb3f10",
+    "key": "8425690c4844fbb01b5eae706bc2f7c6",
+    "tvg_id": "335.astro"
+  },
+  {
+    "channel": "KBSW HD",
+    "icon": "http://linear-poster.astro.com.my/prod/logo/KBSW_v1.png",
+    "category": [
+      "HD",
+      "ENTERTAINMENT",
+      "ALL"
+    ],
+    "mpd": "https://linearjitp-playback.astro.com.my/dash-wv/linear/2306/default_ott.mpd",
+    "kid": "692950d39869c92af9a9ddea453c0d10",
+    "key": "eadc626ab959255f7ab881c03d306fe2",
+    "tvg_id": "392.astro"
+  },
+  {
+    "channel": "ONE HD",
+    "icon": "http://linear-poster.astro.com.my/prod/logo/ONE_HD_v2.png",
+    "category": [
+      "HD",
+      "ALL"
+    ],
+    "mpd": "https://linearjitp-playback.astro.com.my/dash-wv/linear/2702/default_ott.mpd",
+    "kid": "d8fe398c79065173fa9788f226056510",
+    "key": "45e77e6a8ba767b63cacfdb01ef2ac29",
+    "tvg_id": "393.astro"
+  },
+  {
+    "channel": "tvN HD",
+    "icon": "http://linear-poster.astro.com.my/prod/logo/tvN_2021.png",
+    "category": [
+      "HD",
+      "ENTERTAINMENT",
+      "ALL"
+    ],
+    "mpd": "https://linearjitp-playback.astro.com.my/dash-wv/linear/1001/default_ott.mpd",
+    "kid": "faf4d62bb898de503446c28fb1aa9210",
+    "key": "19e80ecc5d337215c64004cb49c9cb01",
+    "tvg_id": "395.astro"
+  },
+  {
+    "channel": "KPLUS",
+    "icon": "http://linear-poster.astro.com.my/prod/logo/K-Plus_v1.png",
+    "category": [
+      "HD",
+      "ENTERTAINMENT",
+      "ALL"
+    ],
+    "mpd": "https://linearjitp-playback.astro.com.my/dash-wv/linear/9983/default_ott.mpd",
+    "kid": "aa48b28bd723f91214887df6ed9fad10",
+    "key": "b5a3a800848120c843ae0fa68c09c261",
+    "tvg_id": "396.astro"
+  },
+  {
+    "channel": "HITS MOVIES HD",
+    "icon": "http://linear-poster.astro.com.my/prod/logo/Logo_10000499.png",
+    "category": [
+      "HD",
+      "MOVIES",
+      "ALL"
+    ],
+    "mpd": "https://linearjitp-playback.astro.com.my/dash-wv/linear/2305/default_ott.mpd",
+    "kid": "ff1febd7018d0dd711601e795e0d6210",
+    "key": "38fbfb3a56e40ff92c9df8acbcba9ef6",
+    "tvg_id": "401.astro"
+  },
+  {
+    "channel": "BOO",
+    "icon": "http://linear-poster.astro.com.my/prod/logo/AstroBoo_2024.png",
+    "category": [
+      "HD",
+      "MOVIES",
+      "ALL"
+    ],
+    "mpd": "https://linearjitp-playback.astro.com.my/dash-wv/linear/2407/default_ott.mpd",
+    "kid": "ea4d51ade01bbf3946e0de973051ba10",
+    "key": "f3266bec607f25879f48640f30f1c888",
+    "tvg_id": "404.astro"
+  },
+  {
+    "channel": "HBO HD",
+    "icon": "http://linear-poster.astro.com.my/prod/logo/HBO_v1.png",
+    "category": [
+      "MOVIES",
+      "HD",
+      "ALL"
+    ],
+    "mpd": "https://linearjitp-playback.astro.com.my/dash-wv/linear/2304/default_ott.mpd",
+    "kid": "a098896d2b11c5f3906a993c3ba5c610",
+    "key": "f3f842c54cc96cbbd0bcb96a4cb8a813",
+    "tvg_id": "411.astro"
+  },
+  {
+    "channel": "CINEMAX HD",
+    "icon": "http://linear-poster.astro.com.my/prod/logo/Cinemax_v1.png",
+    "category": [
+      "MOVIES",
+      "HD",
+      "ALL"
+    ],
+    "mpd": "https://linearjitp-playback.astro.com.my/dash-wv/linear/603/default_ott.mpd",
+    "kid": "efdb2a8d39151cc39f4b51d762cf9c10",
+    "key": "13cc535ad4a73201147863cac386cdd3",
+    "tvg_id": "412.astro"
+  },
+  {
+    "channel": "SHOWCASE",
+    "icon": "http://linear-poster.astro.com.my/prod/logo/AstroShowcase_2024.png",
+    "category": [
+      "HD",
+      "MOVIES",
+      "ALL"
+    ],
+    "mpd": "https://linearjitp-playback.astro.com.my/dash-wv/linear/5054/default_ott.mpd",
+    "kid": "b8090c8361cc5cc5c1aac0ec2710de10",
+    "key": "ca0d18538845bae2cb4f4a168036f174",
+    "tvg_id": "413.astro"
+  },
+  {
+    "channel": "HBO Family",
+    "icon": "http://linear-poster.astro.com.my/prod/logo/HBO_Family.png",
+    "category": [
+      "HD",
+      "MOVIES",
+      "ALL"
+    ],
+    "mpd": "https://linearjitp-playback.astro.com.my/dash-wv/linear/5053/default_ott.mpd",
+    "kid": "2b9ff7cc1a3dc9fef47cc5773472d510",
+    "key": "7e37588e893ab9252e505bd6dda35beb",
+    "tvg_id": "414.astro"
+  },
+  {
+    "channel": "HBO Hits",
+    "icon": "http://linear-poster.astro.com.my/prod/logo/HBO_Hits.png",
+    "category": [
+      "HD",
+      "MOVIES",
+      "ALL"
+    ],
+    "mpd": "https://linearjitp-playback.astro.com.my/dash-wv/linear/5055/default_ott.mpd",
+    "kid": "5d600eb70944d681c26c1f48fbe61f10",
+    "key": "796139ba05a2ab425f978c7fd98b4372",
+    "tvg_id": "415.astro"
+  },
+  {
+    "channel": "tvN Movies",
+    "icon": "http://linear-poster.astro.com.my/prod/logo/tvNMovies_2021.png",
+    "category": [
+      "HD",
+      "MOVIES",
+      "ALL"
+    ],
+    "mpd": "https://linearjitp-playback.astro.com.my/dash-wv/linear/2406/default_ott.mpd",
+    "kid": "8e269c8aa32ad77eb83068312343d610",
+    "key": "d12ccebafbba2a535d88a3087f884252",
+    "tvg_id": "416.astro"
+  },
+  {
+    "channel": "AWANI HD",
+    "icon": "http://linear-poster.astro.com.my/prod/logo/Astro_Awani_v1.png",
+    "category": [
+      "HD",
+      "NEWS",
+      "MALAY",
+      "ALL"
+    ],
+    "mpd": "https://linearjitp-playback.astro.com.my/dash-wv/linear/5025/default_ott.mpd",
+    "kid": "6f06f3b3cf7cbad0cc8b21e2c94dfb10",
+    "key": "525510cfa634bd630af8c95fa93576ca",
+    "tvg_id": "501.astro"
+  },
+  {
+    "channel": "BERNAMA",
+    "icon": "http://linear-poster.astro.com.my/prod/logo/BNC_v3.png",
+    "category": [
+      "NEWS",
+      "ALL"
+    ],
+    "mpd": "https://linearjitp-playback.astro.com.my/dash-wv/linear/1114/default_ott.mpd",
+    "kid": "1406bbf218ca14f967034fcf4abf7710",
+    "key": "39a27aa2cc84a29b665fcc4dbf9c54b6",
+    "tvg_id": "502.astro"
+  },
+  {
+    "channel": "CGTN HD",
+    "icon": "http://linear-poster.astro.com.my/prod/logo/CGTN_v1.png",
+    "category": [
+      "NEWS",
+      "HD",
+      "ALL"
+    ],
+    "mpd": "https://linearjitp-playback.astro.com.my/dash-wv/linear/5019/default_ott.mpd",
+    "kid": "fc66ef0ee35b5ba639dc0e13c5f8a910",
+    "key": "9e706161f02fb99cb692d2965470494e",
+    "tvg_id": "503.astro"
+  },
+  {
+    "channel": "CNN HD",
+    "icon": "http://linear-poster.astro.com.my/prod/logo/CNN_v1.png",
+    "category": [
+      "HD",
+      "NEWS",
+      "ALL"
+    ],
+    "mpd": "https://linearjitp-playback.astro.com.my/dash-wv/linear/2503/default_ott.mpd",
+    "kid": "1b618a291cece44c9845dddfc4fd9b10",
+    "key": "bf7e1b97555c4acb7455f711b2a9ff16",
+    "tvg_id": "511.astro"
+  },
+  {
+    "channel": "BBC News HD",
+    "icon": "http://linear-poster.astro.com.my/prod/logo/BBC_World_News_v2.png",
+    "category": [
+      "NEWS",
+      "HD",
+      "ALL"
+    ],
+    "mpd": "https://linearjitp-playback.astro.com.my/dash-wv/linear/1008/default_ott.mpd",
+    "kid": "01767d1c2315c0e9556f477fb1f0c710",
+    "key": "77ec0eeb21c07812fd7c58628366ccb3",
+    "tvg_id": "512.astro"
+  },
+  {
+    "channel": "AL JAZEERA HD",
+    "icon": "http://linear-poster.astro.com.my/prod/logo/AlJazeera_v1.png",
+    "category": [
+      "NEWS",
+      "HD",
+      "ALL"
+    ],
+    "mpd": "https://linearjitp-playback.astro.com.my/dash-wv/linear/2110/default_ott.mpd",
+    "kid": "b1fbd0874e7923f5b05929a042aa0610",
+    "key": "6c3c498113abffdf454dc935319a794d",
+    "tvg_id": "513.astro"
+  },
+  {
+    "channel": "SKY NEWS HD",
+    "icon": "http://linear-poster.astro.com.my/prod/logo/Sky_News_HD_v1.png",
+    "category": [
+      "HD",
+      "NEWS",
+      "ALL"
+    ],
+    "mpd": "https://linearjitp-playback.astro.com.my/dash-wv/linear/2102/default_ott.mpd",
+    "kid": "4bef7fc1bcb6bd7f287def940e38cb10",
+    "key": "b0dadd74b713e4b29fd27e147cae7133",
+    "tvg_id": "514.astro"
+  },
+  {
+    "channel": "CNA HD",
+    "icon": "http://linear-poster.astro.com.my/prod/logo/Channel_News_Asia_v1.png",
+    "category": [
+      "HD",
+      "NEWS",
+      "ALL"
+    ],
+    "mpd": "https://linearjitp-playback.astro.com.my/dash-wv/linear/605/default_ott.mpd",
+    "kid": "f812aeae6be5b924a8181b512d5d7910",
+    "key": "44275884ee394d05081fde395ff6e415",
+    "tvg_id": "515.astro"
+  },
+  {
+    "channel": "CNBC HD ",
+    "icon": "http://linear-poster.astro.com.my/prod/logo/CNBC_v1.png",
+    "category": [
+      "NEWS",
+      "HD",
+      "ALL"
+    ],
+    "mpd": "https://linearjitp-playback.astro.com.my/dash-wv/linear/900/default_ott.mpd",
+    "kid": "c3a38f1340531759a1ca97bc5d80c810",
+    "key": "602827a870d49862d1a23f2912957b4c",
+    "tvg_id": "516.astro"
+  },
+  {
+    "channel": "BLOOMBERG  TV HD",
+    "icon": "http://linear-poster.astro.com.my/prod/logo/BloombergTV_2022.png",
+    "category": [
+      "NEWS",
+      "HD",
+      "ALL"
+    ],
+    "mpd": "https://linearjitp-playback.astro.com.my/dash-wv/linear/5020/default_ott.mpd",
+    "kid": "db1343545ae25ddecf8dfa4422f35410",
+    "key": "79a044b30d64f5c37e6d45d503cbb280",
+    "tvg_id": "517.astro"
+  },
+  {
+    "channel": "ABC AUSTRALIA",
+    "icon": "http://linear-poster.astro.com.my/prod/logo/ABC_v1.png",
+    "category": [
+      "HD",
+      "NEWS",
+      "ALL"
+    ],
+    "mpd": "https://linearjitp-playback.astro.com.my/dash-wv/linear/5075/default_ott.mpd",
+    "kid": "6a9fcc2f94258cee0f2108687c42e710",
+    "key": "99bd7c1ff2391244b4e40e08bef1109d",
+    "tvg_id": "518.astro"
+  },
+  {
+    "channel": "DW HD",
+    "icon": "http://linear-poster.astro.com.my/prod/logo/DW_v1.png",
+    "category": [
+      "HD",
+      "NEWS",
+      "ALL"
+    ],
+    "mpd": "https://linearjitp-playback.astro.com.my/dash-wv/linear/9984/default_ott.mpd",
+    "kid": "7edf3bd590cf337f721a2e5bec361510",
+    "key": "13bb829ce4836ccf74071c45993978c5",
+    "tvg_id": "521.astro"
+  },
+  {
+    "channel": "FRANCE24 HD",
+    "icon": "http://linear-poster.astro.com.my/prod/logo/France24_v1.png",
+    "category": [
+      "HD",
+      "NEWS",
+      "ALL"
+    ],
+    "mpd": "https://linearjitp-playback.astro.com.my/dash-wv/linear/9985/default_ott.mpd",
+    "kid": "3b0c1cebd0c4518d600f52c354ed1910",
+    "key": "76d409ffc4eaa012c61d8c31bd13df5d",
+    "tvg_id": "522.astro"
+  },
+  {
+    "channel": "Love Nature",
+    "icon": "http://linear-poster.astro.com.my/prod/logo/LoveNature_HD.png",
+    "category": [
+      "HD",
+      "LIFESTYLES",
+      "ALL"
+    ],
+    "mpd": "https://linearjitp-playback.astro.com.my/dash-wv/linear/5096/default_ott.mpd",
+    "kid": "168bd815468639fe4528b4bf0141f310",
+    "key": "775a654c0610811ad022329a68884de1",
+    "tvg_id": "550.astro"
+  },
+  {
+    "channel": "Global Trekker",
+    "icon": "http://linear-poster.astro.com.my/prod/logo/Global-Trekker_190x80_TV-Guide.png",
+    "category": [
+      "HD",
+      "DOCUMENTARIES",
+      "ALL"
+    ],
+    "mpd": "https://linearjitp-playback.astro.com.my/dash-wv/linear/5094/default_ott.mpd",
+    "kid": "92d34a84fae8e54de0a829629941be10",
+    "key": "2fb39ab3f55333d5fa3e830ebf99ec16",
+    "tvg_id": "551.astro"
+  },
+  {
+    "channel": "DISCOVERY HD",
+    "icon": "http://linear-poster.astro.com.my/prod/logo/Discovery_NEW_v1.png",
+    "category": [
+      "DOCUMENTARIES",
+      "HD",
+      "EDUCATION",
+      "ALL"
+    ],
+    "mpd": "https://linearjitp-playback.astro.com.my/dash-wv/linear/2510/default_ott.mpd",
+    "kid": "276767a578aae2eacb284247ccd9eb10",
+    "key": "03ef88df1a47669e5459e105e3b535b1",
+    "tvg_id": "552.astro"
+  },
+  {
+    "channel": "DISCOVERY ASIA",
+    "icon": "http://linear-poster.astro.com.my/prod/logo/Discovery_Asia_v1.png",
+    "category": [
+      "DOCUMENTARIES",
+      "HD",
+      "ALL"
+    ],
+    "mpd": "https://linearjitp-playback.astro.com.my/dash-wv/linear/501/default_ott.mpd",
+    "kid": "3ff02fcd80c2e3230c52ae70fe903410",
+    "key": "c3a58ec867cc25829e1fbe8938442553",
+    "tvg_id": "553.astro"
+  },
+  {
+    "channel": "BBC Earth",
+    "icon": "http://linear-poster.astro.com.my/prod/logo/BBC-EARTH_2023.png",
+    "category": [
+      "DOCUMENTARIES",
+      "HD",
+      "ALL"
+    ],
+    "mpd": "https://linearjitp-playback.astro.com.my/dash-wv/linear/5051/default_ott.mpd",
+    "kid": "dbf62ff0804bc5b8d523ef009d786310",
+    "key": "bb1bdb27cc5fe1ec637d257999344cc3",
+    "tvg_id": "554.astro"
+  },
+  {
+    "channel": "HISTORY HD",
+    "icon": "http://linear-poster.astro.com.my/prod/logo/History_2022_v1.png",
+    "category": [
+      "HD",
+      "DOCUMENTARIES",
+      "ALL"
+    ],
+    "mpd": "https://linearjitp-playback.astro.com.my/dash-wv/linear/604/default_ott.mpd",
+    "kid": "3feecc36930732cbb69306dc687c6f10",
+    "key": "3458265f7530bf1fef204ca8cb4689db",
+    "tvg_id": "555.astro"
+  },
+  {
+    "channel": "ANIMAL PLANET HD",
+    "icon": "http://linear-poster.astro.com.my/prod/logo/Animal_Planet_v1.png",
+    "category": [
+      "DOCUMENTARIES",
+      "EDUCATION",
+      "HD",
+      "ALL"
+    ],
+    "mpd": "https://linearjitp-playback.astro.com.my/dash-wv/linear/2710/default_ott.mpd",
+    "kid": "d5199f1513a0286e038dae8f7d820010",
+    "key": "4d4d4d9dc41be43f528a4940cf66f14c",
+    "tvg_id": "556.astro"
+  },
+  {
+    "channel": "TUTOR TV",
+    "icon": "http://linear-poster.astro.com.my/prod/logo/AstroTutorTV_2024.png",
+    "category": [
+      "EDUCATION",
+      "HD",
+      "ALL"
+    ],
+    "mpd": "https://linearjitp-playback.astro.com.my/dash-wv/linear/5071/default_ott.mpd",
+    "kid": "8829b8f4d91d2630f398c67ed94c2310",
+    "key": "aed9dc02038725aadbd0c7bd1709240b",
+    "tvg_id": "603.astro"
+  },
+  {
+    "channel": "CERIA HD",
+    "icon": "http://linear-poster.astro.com.my/prod/logo/AstroCeria_2024.png",
+    "category": [
+      "HD",
+      "MALAY",
+      "KIDS",
+      "ALL"
+    ],
+    "mpd": "https://linearjitp-playback.astro.com.my/dash-wv/linear/2606/default_ott.mpd",
+    "kid": "b6e60ca0d28e8f97395f07b4e2e53a10",
+    "key": "0f0ea6c3543c29d7f513eb886eb74f88",
+    "tvg_id": "611.astro"
+  },
+  {
+    "channel": "CARTOON NTWK HD",
+    "icon": "http://linear-poster.astro.com.my/prod/logo/Cartoon_Network_v1.png",
+    "category": [
+      "KIDS",
+      "HD",
+      "ALL"
+    ],
+    "mpd": "https://linearjitp-playback.astro.com.my/dash-wv/linear/509/default_ott.mpd",
+    "kid": "1a05bebf706408431a390c3f9f40f410",
+    "key": "89c5ff9f8e65c7fe966afbd2f9128e5f",
+    "tvg_id": "615.astro"
+  },
+  {
+    "channel": "NICKELODEON HD",
+    "icon": "http://linear-poster.astro.com.my/prod/logo/Nickelodeon_2024.png",
+    "category": [
+      "KIDS",
+      "HD",
+      "ALL"
+    ],
+    "mpd": "https://linearjitp-playback.astro.com.my/dash-wv/linear/2511/default_ott.mpd",
+    "kid": "d8520e96a1283ab6e5be538474bfa810",
+    "key": "bda5f7bbc1e44096f779a0619fe9881f",
+    "tvg_id": "616.astro"
+  },
+  {
+    "channel": "NICK JR",
+    "icon": "http://linear-poster.astro.com.my/prod/logo/Nick-Jr_2024.png",
+    "category": [
+      "HD",
+      "KIDS",
+      "ALL"
+    ],
+    "mpd": "https://linearjitp-playback.astro.com.my/dash-wv/linear/9982/default_ott.mpd",
+    "kid": "fa65220c9f76e424173899df533a6d10",
+    "key": "b4abbee95b69b3e80a0d141272c870db",
+    "tvg_id": "617.astro"
+  },
+  {
+    "channel": "Moonbug Kids",
+    "icon": "http://linear-poster.astro.com.my/prod/logo/Moonbug_V1.png",
+    "category": [
+      "HD",
+      "KIDS",
+      "ALL"
+    ],
+    "mpd": "https://linearjitp-playback.astro.com.my/dash-wv/linear/5067/default_ott.mpd",
+    "kid": "e3cb7499710786eb105fab7b52459910",
+    "key": "8ab093adabdc343b8734b7ecf0aea11a",
+    "tvg_id": "618.astro"
+  },
+  {
+    "channel": "Blippi & Friends",
+    "icon": "http://linear-poster.astro.com.my/prod/logo/Blippi&Friends.png",
+    "category": [
+      "ENTERTAINMENT",
+      "HD",
+      "KIDS",
+      "ALL"
+    ],
+    "mpd": "https://linearjitp-playback.astro.com.my/dash-wv/linear/5175/default_ott.mpd",
+    "kid": "b1119e01b67a19a3eb37c41140c3fa10",
+    "key": "5124996ebcfee077b4aacec307f38d0f",
+    "tvg_id": "619.astro"
+  },
+  {
+    "channel": "CBeebies",
+    "icon": "http://linear-poster.astro.com.my/prod/logo/CBeebies_V1.png",
+    "category": [
+      "KIDS",
+      "HD",
+      "ALL"
+    ],
+    "mpd": "https://linearjitp-playback.astro.com.my/dash-wv/linear/5093/default_ott.mpd",
+    "kid": "50c699c444e5f80dacafc4c99667d810",
+    "key": "de6c5feaae5f6963b4b392ddc8b6a778",
+    "tvg_id": "620.astro"
+  },
+  {
+    "channel": "AXN HD",
+    "icon": "http://linear-poster.astro.com.my/prod/logo/AXN_v1.png",
+    "category": [
+      "ENTERTAINMENT",
+      "HD",
+      "ALL"
+    ],
+    "mpd": "https://linearjitp-playback.astro.com.my/dash-wv/linear/2303/default_ott.mpd",
+    "kid": "c24a7811d9ab46b48b746a0e7e269210",
+    "key": "c321afe1689b07d5b7e55bd025c483ce",
+    "tvg_id": "701.astro"
+  },
+  {
+    "channel": "HITS NOW",
+    "icon": "http://linear-poster.astro.com.my/prod/logo/HITSNOW.png",
+    "category": [
+      "HD",
+      "ENTERTAINMENT",
+      "ALL"
+    ],
+    "mpd": "https://linearjitp-playback.astro.com.my/dash-wv/linear/5110/default_ott.mpd",
+    "kid": "4307def6a29bec082f8c93f1f98e5910",
+    "key": "a4d49bda8cd29ba2888c732b4e7d9d63",
+    "tvg_id": "702.astro"
+  },
+  {
+    "channel": "Lifetime",
+    "icon": "http://linear-poster.astro.com.my/prod/logo/Lifetime.png",
+    "category": [
+      "HD",
+      "ENTERTAINMENT",
+      "ALL"
+    ],
+    "mpd": "https://linearjitp-playback.astro.com.my/dash-wv/linear/5052/default_ott.mpd",
+    "kid": "8de11e005db5bd0db8228814863cd310",
+    "key": "183b3eafa4c82e68f74c4244d54906b0",
+    "tvg_id": "703.astro"
+  },
+  {
+    "channel": "HITS HD",
+    "icon": "http://linear-poster.astro.com.my/prod/logo/Hits_v1.png",
+    "category": [
+      "HD",
+      "ENTERTAINMENT",
+      "ALL"
+    ],
+    "mpd": "https://linearjitp-playback.astro.com.my/dash-wv/linear/606/default_ott.mpd",
+    "kid": "1fe92685a75844dc54c9dac124802510",
+    "key": "36cb2063bf5338d18d31657371b15817",
+    "tvg_id": "706.astro"
+  },
+  {
+    "channel": "TLC HD",
+    "icon": "http://linear-poster.astro.com.my/prod/logo/TLC_v1.png",
+    "category": [
+      "LIFESTYLES",
+      "HD",
+      "ALL"
+    ],
+    "mpd": "https://linearjitp-playback.astro.com.my/dash-wv/linear/2709/default_ott.mpd",
+    "kid": "942ec156203b2aca1ddf3498f663c110",
+    "key": "7f5e6c69698ddefcb74553431b2b1c98",
+    "tvg_id": "707.astro"
+  },
+  {
+    "channel": "FOOD NTWK HD",
+    "icon": "http://linear-poster.astro.com.my/prod/logo/FoodNetwork_2021.png",
+    "category": [
+      "HD",
+      "LIFESTYLES",
+      "ALL"
+    ],
+    "mpd": "https://linearjitp-playback.astro.com.my/dash-wv/linear/2300/default_ott.mpd",
+    "kid": "2d13c814df4a0c2ce488b2eda052d710",
+    "key": "2dc2a7617bde2ab00136ee689c56d789",
+    "tvg_id": "708.astro"
+  },
+  {
+    "channel": "AFN HD",
+    "icon": "http://linear-poster.astro.com.my/prod/logo/afn_v1.png",
+    "category": [
+      "HD",
+      "ENTERTAINMENT",
+      "LIFESTYLES",
+      "ALL"
+    ],
+    "mpd": "https://linearjitp-playback.astro.com.my/dash-wv/linear/500/default_ott.mpd",
+    "kid": "346b9f41e2933748c8861f82932e0110",
+    "key": "cf0cffb637b81598a27bd6b0d90d65a8",
+    "tvg_id": "709.astro"
+  },
+  {
+    "channel": "WARNER TV",
+    "icon": "http://linear-poster.astro.com.my/prod/logo/Warner-TV_v1.png",
+    "category": [
+      "HD",
+      "ENTERTAINMENT",
+      "ALL"
+    ],
+    "mpd": "https://linearjitp-playback.astro.com.my/dash-wv/linear/2605/default_ott.mpd",
+    "kid": "6093e12639b24cd651ee6b3c13446d10",
+    "key": "f8326f668c7bee309e5302b513e5bdf7",
+    "tvg_id": "712.astro"
+  },
+  {
+    "channel": "CI HD ",
+    "icon": "http://linear-poster.astro.com.my/prod/logo/CI_v1.png",
+    "category": [
+      "DOCUMENTARIES",
+      "HD",
+      "ALL"
+    ],
+    "mpd": "https://linearjitp-playback.astro.com.my/dash-wv/linear/2111/default_ott.mpd",
+    "kid": "22fc5baf47ae3b6322bc244206bbb210",
+    "key": "db1ee2b8994b91aac65049ef3e493787",
+    "tvg_id": "714.astro"
+  },
+  {
+    "channel": "HGTV HD",
+    "icon": "http://linear-poster.astro.com.my/prod/logo/HGTV_v1.png",
+    "category": [
+      "HD",
+      "LIFESTYLES",
+      "ALL"
+    ],
+    "mpd": "https://linearjitp-playback.astro.com.my/dash-wv/linear/2502/default_ott.mpd",
+    "kid": "8c1bb309955eee32882390abebe19810",
+    "key": "2a695b046e7cf5811a634d1348441195",
+    "tvg_id": "715.astro"
+  },
+  {
+    "channel": "DMAX HD",
+    "icon": "http://linear-poster.astro.com.my/prod/logo/DMAX_v1.png",
+    "category": [
+      "DOCUMENTARIES",
+      "LIFESTYLES",
+      "HD",
+      "ALL"
+    ],
+    "mpd": "https://linearjitp-playback.astro.com.my/dash-wv/linear/2610/default_ott.mpd",
+    "kid": "0e21da304a29298ceca1fdfd1e71e210",
+    "key": "87de38cf3ed2bbcd5d89b63e571bfe21",
+    "tvg_id": "716.astro"
+  },
+  {
+    "channel": "BBC Lifestyle",
+    "icon": "http://linear-poster.astro.com.my/prod/logo/BBC_Lifestyle.png",
+    "category": [
+      "HD",
+      "LIFESTYLES",
+      "ALL"
+    ],
+    "mpd": "https://linearjitp-playback.astro.com.my/dash-wv/linear/5050/default_ott.mpd",
+    "kid": "f429292dc744f284355308561577ac10",
+    "key": "b12e1f894129c517dc8845baaeebec8a",
+    "tvg_id": "717.astro"
+  },
+  {
+    "channel": "MTV HD",
+    "icon": "http://linear-poster.astro.com.my/prod/logo/MTV_Live.png",
+    "category": [
+      "ENTERTAINMENT",
+      "HD",
+      "ALL"
+    ],
+    "mpd": "https://linearjitp-playback.astro.com.my/dash-wv/linear/5014/default_ott.mpd",
+    "kid": "3ac2542a4f7be746633db07647451710",
+    "key": "22f964a6d6927ccdba482e775cdff190",
+    "tvg_id": "718.astro"
+  },
+  {
+    "channel": "ARENA HD",
+    "icon": "http://linear-poster.astro.com.my/prod/logo/AstroArena_2024.png",
+    "category": [
+      "HD",
+      "SPORTS",
+      "ALL"
+    ],
+    "mpd": "https://linearjitp-playback.astro.com.my/dash-wv/linear/2604/default_ott.mpd",
+    "kid": "efda647dad723563b625be8c05ee6110",
+    "key": "6776985938b332164b97b81fe566a34a",
+    "tvg_id": "801.astro"
+  },
+  {
+    "channel": "ARENA 2 HD",
+    "icon": "http://linear-poster.astro.com.my/prod/logo/AstroArena2_2024.png",
+    "category": [
+      "HD",
+      "SPORTS",
+      "ALL"
+    ],
+    "mpd": "https://linearjitp-playback.astro.com.my/dash-wv/linear/5057/default_ott.mpd",
+    "kid": "ead0335d60401225727a6d531e9c2710",
+    "key": "1ee3b252227c5c2ec9378c833d2e14ff",
+    "tvg_id": "802.astro"
+  },
+  {
+    "channel": "Astro Football",
+    "icon": "http://linear-poster.astro.com.my/prod/logo/AstroFootball_2024.png",
+    "category": [
+      "HD",
+      "SPORTS",
+      "ALL"
+    ],
+    "mpd": "https://linearjitp-playback.astro.com.my/dash-wv/linear/2506/default_ott.mpd",
+    "kid": "79f4028730acca9ab8b00f26158ddb10",
+    "key": "91febe843c08c7cc523efd827292e40e",
+    "tvg_id": "814.astro"
+  },
+  {
+    "channel": "Astro Badminton",
+    "icon": "http://linear-poster.astro.com.my/prod/logo/AstroBadminton_2024.png",
+    "category": [
+      "SPORTS",
+      "HD"
+    ],
+    "mpd": "https://linearjitp-playback.astro.com.my/dash-wv/linear/5170/default_ott.mpd",
+    "kid": "6ff0e040d544ec3f02243865990f0c10",
+    "key": "83728b47019abdbb37aa36ed5f2951bd",
+    "tvg_id": "815.astro"
+  },
+  {
+    "channel": "Astro Sports Plus",
+    "icon": "http://linear-poster.astro.com.my/prod/logo/AstroSportsPlus_2024.png",
+    "category": [
+      "SPORTS",
+      "HD"
+    ],
+    "mpd": "https://linearjitp-playback.astro.com.my/dash-wv/linear/5171/default_ott.mpd",
+    "kid": "81352bc47ec1177b321ee65ac1be7f10",
+    "key": "c8b886142005d7e5067c8717777eaac4",
+    "tvg_id": "817.astro"
+  },
+  {
+    "channel": "beIN SPORTS",
+    "icon": "http://linear-poster.astro.com.my/prod/logo/beINSPORT1.png",
+    "category": [
+      "SPORTS",
+      "HD",
+      "ALL"
+    ],
+    "mpd": "https://linearjitp-playback.astro.com.my/dash-wv/linear/408/default_ott.mpd",
+    "kid": "1a655189ab5c49eb235308c2b1a9e710",
+    "key": "3c4508af348844107f5e026a4fd6b16e",
+    "tvg_id": "820.astro"
+  },
+  {
+    "channel": " beIN SPORTS 2",
+    "icon": "http://linear-poster.astro.com.my/prod/logo/beINSPORTS2.png",
+    "category": [
+      "HD",
+      "SPORTS",
+      "ALL"
+    ],
+    "mpd": "https://linearjitp-playback.astro.com.my/dash-wv/linear/5066/default_ott.mpd",
+    "kid": "39c175581e237eff9559607eb9b23c10",
+    "key": "5102b12aac7756c65dcb46a101d960d3",
+    "tvg_id": "821.astro"
+  },
+  {
+    "channel": "bEIN SPORTS 3",
+    "icon": "http://linear-poster.astro.com.my/prod/logo/beIN_SPORTS3_V2.png",
+    "category": [
+      "HD",
+      "SPORTS",
+      "ALL"
+    ],
+    "mpd": "https://linearjitp-playback.astro.com.my/dash-wv/linear/2705/default_ott.mpd",
+    "kid": "20c884ef8ed26b2762f8b1a78f2d1910",
+    "key": "042a21bf236ca729b1e343ed6e0a6337",
+    "tvg_id": "822.astro"
+  },
+  {
+    "channel": "SPOTV",
+    "icon": "http://linear-poster.astro.com.my/prod/logo/SPOTV.png",
+    "category": [
+      "HD",
+      "SPORTS",
+      "ALL"
+    ],
+    "mpd": "https://linearjitp-playback.astro.com.my/dash-wv/linear/5058/default_ott.mpd",
+    "kid": "c0e1804aa1d9fd9c41c41bf0f61a5f10",
+    "key": "758823e4eabb6e4c8c036d073db46b8c",
+    "tvg_id": "823.astro"
+  },
+  {
+    "channel": "SPOTV2 ",
+    "icon": "http://linear-poster.astro.com.my/prod/logo/SPOTV2.png",
+    "category": [
+      "HD",
+      "SPORTS",
+      "ALL"
+    ],
+    "mpd": "https://linearjitp-playback.astro.com.my/dash-wv/linear/5079/default_ott.mpd",
+    "kid": "5efd26da5001363b4d6fa4a9c812ad10",
+    "key": "ed6d67d953d14b026b2602cf8846577e",
+    "tvg_id": "824.astro"
+  },
+  {
+    "channel": "EUROSPORT HD",
+    "icon": "http://linear-poster.astro.com.my/prod/logo/logo_1701_v3.png",
+    "category": [
+      "HD",
+      "SPORTS",
+      "ALL"
+    ],
+    "mpd": "https://linearjitp-playback.astro.com.my/dash-wv/linear/2100/default_ott.mpd",
+    "kid": "4db23a41babfe9afc222a58c59828310",
+    "key": "d0e794e3cff564ed2c720a098eb177c7",
+    "tvg_id": "825.astro"
+  },
+  {
+    "channel": "W-Sport",
+    "icon": "http://linear-poster.astro.com.my/prod/logo/W-Sport.png",
+    "category": [
+      "HD",
+      "SPORTS",
+      "ALL"
+    ],
+    "mpd": "https://linearjitp-playback.astro.com.my/dash-wv/linear/5060/default_ott.mpd",
+    "kid": "010cbb9cf1a01ead38070730d38bc710",
+    "key": "9cd5c0d1e54c22e035d88dd3c1dfc84c",
+    "tvg_id": "826.astro"
+  },
+  {
+    "channel": "GOLF CHANNEL HD",
+    "icon": "http://linear-poster.astro.com.my/prod/logo/Golf_v1.png",
+    "category": [
+      "HD",
+      "SPORTS",
+      "ALL"
+    ],
+    "mpd": "https://linearjitp-playback.astro.com.my/dash-wv/linear/1003/default_ott.mpd",
+    "kid": "705bab5e645b6d7c95588b29520f8110",
+    "key": "28639bcfb5cbee8ff9ca398fcf5bfcd0",
+    "tvg_id": "831.astro"
+  },
+  {
+    "channel": "ASTRO CRICKET",
+    "icon": "http://linear-poster.astro.com.my/prod/logo/AstroCricket_2024.png",
+    "category": [
+      "HD",
+      "SPORTS",
+      "ALL"
+    ],
+    "mpd": "https://linearjitp-playback.astro.com.my/dash-wv/linear/2504/default_ott.mpd",
+    "kid": "03c2e0af2f8159f9f0ce9b5dbc865f10",
+    "key": "cd84ed136b0cc71f8ab8cd4d4f6a2e4c",
+    "tvg_id": "832.astro"
+  },
+  {
+    "channel": "Premier Sports",
+    "icon": "http://linear-poster.astro.com.my/prod/logo/PremierSports.png",
+    "category": [
+      "HD",
+      "SPORTS",
+      "ALL"
+    ],
+    "mpd": "https://linearjitp-playback.astro.com.my/dash-wv/linear/2601/default_ott.mpd",
+    "kid": "9bfeb5068725617dbad6338473da6d10",
+    "key": "06577ffcc4935ba24aff4c4c9dd6846d",
+    "tvg_id": "833.astro"
+  }
+]
