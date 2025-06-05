@@ -329,16 +329,17 @@
     "tvg_id": "801.astro"
   },
   {
-    "channel": "Astro Badminton",
-    "icon": "http://linear-poster.astro.com.my/prod/logo/AstroBadminton_2024.png",
+    "channel": "ARENA 2 HD",
+    "icon": "http://linear-poster.astro.com.my/prod/logo/AstroArena2_2024.png",
     "category": [
+      "HD",
       "SPORTS",
-      "HD"
+      "ALL"
     ],
-    "mpd": "https://linearjitp-playback.astro.com.my/dash-wv/linear/5170/default_ott.mpd",
-    "kid": "6ff0e040d544ec3f02243865990f0c10",
-    "key": "83728b47019abdbb37aa36ed5f2951bd",
-    "tvg_id": "815.astro"
+    "mpd": "https://linearjitp-playback.astro.com.my/dash-wv/linear/5057/default_ott.mpd",
+    "kid": "ead0335d60401225727a6d531e9c2710",
+    "key": "1ee3b252227c5c2ec9378c833d2e14ff",
+    "tvg_id": "801.astro"
   },
   {
     "channel": "beIN SPORTS",
@@ -365,19 +366,6 @@
     "kid": "c0e1804aa1d9fd9c41c41bf0f61a5f10",
     "key": "758823e4eabb6e4c8c036d073db46b8c",
     "tvg_id": "823.astro"
-  },
-  {
-    "channel": "ASTRO CRICKET",
-    "icon": "http://linear-poster.astro.com.my/prod/logo/AstroCricket_2024.png",
-    "category": [
-      "HD",
-      "SPORTS",
-      "ALL"
-    ],
-    "mpd": "https://linearjitp-playback.astro.com.my/dash-wv/linear/2504/default_ott.mpd",
-    "kid": "03c2e0af2f8159f9f0ce9b5dbc865f10",
-    "key": "cd84ed136b0cc71f8ab8cd4d4f6a2e4c",
-    "tvg_id": "832.astro"
   },
   {
     "channel": "ERA FM",
